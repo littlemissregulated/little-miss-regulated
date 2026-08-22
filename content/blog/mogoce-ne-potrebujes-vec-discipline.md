@@ -3,7 +3,8 @@ layout: post.njk
 title: Mogoče ne potrebuješ več discipline
 date: 2026-08-22
 category: Razmišljanja
-excerpt: Če ti ne uspe živeti tako, kot si si zamislila po vzoru nekoga z interneta, to še ne pomeni, da je s tabo nekaj narobe.
+excerpt: Če ti ne uspe živeti tako, kot si si zamislila po vzoru nekoga z
+  interneta, to še ne pomeni, da je s tabo nekaj narobe.MAJA
 permalink: /blog/mogoce-ne-potrebujes-vec-discipline/index.html
 ---
 Če bi rada v dnevu naredila več stvari – vstala zgodaj, dobro jedla, telovadila, šla v službo, prišla domov, uredila še kaj doma, delala na svojih ciljih, vmes pa po možnosti poskrbela še za moža, otroke in vse ostalo – pa ti enostavno ne gre.
