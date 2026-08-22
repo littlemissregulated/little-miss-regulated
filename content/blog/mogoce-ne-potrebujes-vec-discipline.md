@@ -1,4 +1,5 @@
 ---
+tags: posts
 layout: post.njk
 title: Mogoče ne potrebuješ več discipline
 date: 2026-08-22
