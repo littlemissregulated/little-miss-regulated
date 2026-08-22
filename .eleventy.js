@@ -1,4 +1,10 @@
 module.exports = function(eleventyConfig) {
+
+  // Kopiraj CMS administracijo in slike/CSS na objavljeno stran
+  eleventyConfig.addPassthroughCopy("admin");
+  eleventyConfig.addPassthroughCopy("assets");
+
+  // Slovenski zapis datuma
   eleventyConfig.addFilter("slDate", function(date) {
     const d = new Date(date);
 
