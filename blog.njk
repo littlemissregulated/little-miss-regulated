@@ -1,0 +1,7 @@
+---
+layout: base.njk
+title: Blog
+permalink: /blog/index.html
+---
+<main><section class="page-intro"><div class="kicker">Blog</div><h1>Zapisi za počasnejše branje.</h1><p>O sebi, telesu, odnosih, utrujenosti, notranjem miru in vsem, kar si zasluži več prostora.</p></section>
+<section class="shell blog-list">{% for post in collections.posts %}<article class="blog-row"><div class="blog-row-meta"><span class="tag">{{ post.data.category }}</span><span class="date">{{ post.date | slDate }}</span></div><div><h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2><p>{{ post.data.excerpt }}</p><a class="read-more" href="{{ post.url }}">Preberi zapis →</a></div></article>{% endfor %}</section></main>

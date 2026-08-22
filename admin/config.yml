@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: main
+
+locale: sl
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    label_singular: "Blog zapis"
+    folder: "content/blog"
+    create: true
+    delete: true
+    extension: "md"
+    format: "frontmatter"
+    slug: "{{slug}}"
+    summary: "{{title}} — {{date}}"
+    fields:
+      - { label: "Naslov", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Kategorija", name: "category", widget: "string", default: "Razmišljanja" }
+      - { label: "Kratek uvod", name: "excerpt", widget: "text", hint: "Ta tekst se pokaže na naslovnici in na seznamu blogov." }
+      - { label: "Besedilo", name: "body", widget: "markdown" }

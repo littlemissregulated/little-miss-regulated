@@ -1,0 +1,13 @@
+<!doctype html><html lang="sl"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ title }}{% if title != "Little Miss Regulated" %} — Little Miss Regulated{% endif %}</title>
+{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+<link rel="stylesheet" href="/assets/styles.css">
+</head><body>
+<header class="site-header"><div class="shell nav-wrap">
+<a class="brand" href="/">Little Miss Regulated <span class="heart">♡</span></a>
+<nav><a href="/blog/">Blog</a><a href="/o-meni/">O meni</a></nav>
+</div></header>
+{{ content | safe }}
+<footer><div class="shell footer-wrap"><span>Little Miss Regulated</span><span>Prostor za misli, ki potrebujejo malo več časa.</span></div></footer>
+</body></html>
