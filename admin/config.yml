@@ -34,3 +34,9 @@ collections:
           - { label: "Prvi odstavek", name: "paragraph1", widget: "text" }
           - { label: "Drugi odstavek", name: "paragraph2", widget: "text" }
           - { label: "Tretji odstavek", name: "paragraph3", widget: "text" }
+      - label: "Naslovnica"
+        name: "home"
+        file: "_data/home.json"
+        fields:
+          - { label: "Naslovna slika", name: "heroImage", widget: "image" }
+          - { label: "Opis slike", name: "heroAlt", widget: "string", required: false }
