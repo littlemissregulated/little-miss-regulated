@@ -23,3 +23,12 @@ collections:
       - { label: "Kategorija", name: "category", widget: "string", default: "Razmišljanja" }
       - { label: "Kratek uvod", name: "excerpt", widget: "text", hint: "Ta tekst se pokaže na naslovnici in na seznamu blogov." }
       - { label: "Besedilo", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Strani"
+    files:
+      - label: "O meni"
+        name: "about"
+        file: "content/o-meni.md"
+        fields:
+          - { label: "Naslov", name: "title", widget: "string" }
+          - { label: "Besedilo", name: "body", widget: "markdown" }
