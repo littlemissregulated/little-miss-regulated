@@ -28,7 +28,9 @@ collections:
     files:
       - label: "O meni"
         name: "about"
-        file: "content/o-meni.md"
+        file: "_data/about.json"
         fields:
-          - { label: "Naslov", name: "title", widget: "string" }
-          - { label: "Besedilo", name: "body", widget: "markdown" }
+          - { label: "Glavni naslov", name: "heading", widget: "string" }
+          - { label: "Prvi odstavek", name: "paragraph1", widget: "text" }
+          - { label: "Drugi odstavek", name: "paragraph2", widget: "text" }
+          - { label: "Tretji odstavek", name: "paragraph3", widget: "text" }
