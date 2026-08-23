@@ -3,7 +3,16 @@ layout: base.njk
 title: O meni
 permalink: /o-meni/index.html
 ---
-<main><section class="page-intro"><div class="kicker">O meni</div><h1>Ne pišem zato, da bi premagala algoritem.</h1></section><section class="about-body">
-<p>Little Miss Regulated je nastal iz potrebe po prostoru, kjer mi ni treba vsake misli krajšati, olepševati ali spreminjati zato, da bi bila bolj všečna na družbenih omrežjih.</p>
-<p>Tukaj pišem počasi in po svoje. O telesu, živčnem sistemu, odnosih, utrujenosti, notranjem miru in vseh tistih trenutkih, ko se poskušamo popraviti, še preden smo se sploh zares spoznali.</p>
-<p>Ne obljubljam hitrih rešitev. Želim pa odpirati vprašanja, zaradi katerih se lahko malo bolje razumemo.</p></section></main>
+
+<main>
+  <section class="page-intro">
+    <div class="kicker">O meni</div>
+    <h1>{{ about.heading }}</h1>
+  </section>
+
+  <section class="about-body">
+    <p>{{ about.paragraph1 }}</p>
+    <p>{{ about.paragraph2 }}</p>
+    <p>{{ about.paragraph3 }}</p>
+  </section>
+</main>
