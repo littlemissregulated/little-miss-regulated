@@ -1,29 +1,19 @@
 ---
 tags: posts
 layout: post.njk
-title: Mogoče ne potrebuješ več discipline
-date: 2026-08-22
+title: "Prvi korak k spremembi življenja: Samorefleksija"
+date: 2026-10-16
 category: Razmišljanja
-excerpt: Če ti ne uspe živeti tako, kot si si zamislila po vzoru nekoga z
-  interneta, to še ne pomeni, da je s tabo nekaj narobe.MAJA
+excerpt: "Če se počutiš ujeto v svojem življenju in kot da se življenje dogaja
+  tebi, ne zate in po tvoje, te morem razveseliti z novico da nisi edina. "
 permalink: /blog/mogoce-ne-potrebujes-vec-discipline/index.html
 ---
-Če bi rada v dnevu naredila več stvari – vstala zgodaj, dobro jedla, telovadila, šla v službo, prišla domov, uredila še kaj doma, delala na svojih ciljih, vmes pa po možnosti poskrbela še za moža, otroke in vse ostalo – pa ti enostavno ne gre.
+Ta celotna stran, ta blog, je nastal ravno zato, ker je to eno izmed mojih najpogostejših opažanj. Veliko ljudi išče tisti zlati občutek zadovoljstva s samim sabo in s svojim življenjem. Občutek, da se počutiš dobro, zadovoljno in da se preprosto lahko sprostiš in se imaš lepo čez dan. Tudi, če si v pisarni, tudi, če tekaš po opravkih ali če greš po otroke v vrtec.
 
-**Ne gre. Ker ne gre.**
+Točno vem, da veš, kateri občutek mislim. Ko gledaš mlado mamico, kako je urejena in zadovoljna, ko pakira svojega tri letnika v avto. Ima polne roke vrečk, torbico, malo jaknico komaj drži z mezinčkom v roki, ampak vse ji gre tako elegantno. Lahkotno. Prav dobro izgleda, medtem, ko živi svoje življenje. Zdi se, da ji je lepo. Da je zadovoljna. In to začutiš, ko jo opazuješ.
 
-In mogoče za tem res ni nobene velike, vesoljne razlage.
+Takih primerov bi lahko naštela še veliko, ampak vsi se končajo s tem prijetnim ščemenjem, ki ga začutimo, medtem ko gledamo nekoga drugega in se odločimo (ali pa dajmo reči, presodimo), da se on/a počuti dobro. Tako, kot bi se želeli mi. 
 
-Verjetno si preizkusila že vse. Alarme. Planerje. Motivacijske videe. Jutranje rutine. Produktivne aplikacije. Nagrade. Kazni. Disciplino.
+To je isti občutek, na katerega nas lovijo marketingarji na vsakem ovinku. Za našo generacijo in vse prihodnje najpomembneje-na socialnih omrežjih, pri čemer uporabljajo influencerje, da v nas vzbujajo taki občutek, zato, da nam nekaj prodajo, za kar mi takrat verjamemo, da nam bo dalo ta občutek. 
 
-Pa še vedno ne gre.
-
-> Mogoče tak način življenja preprosto ni zate. In tudi ni treba, da je.
-
-Ideja, da mora biti vsak dan maksimalno učinkovit, da bomo uspešni, srečni in vredni, ni naravni zakon.
-
-Na svetu ni dveh enakih ljudi. Vsak človek je svoje vesolje.
-
-Če ti ne uspe živeti tako, kot si si zamislila po vzoru nekoga z interneta, to še ne pomeni, da moraš še bolj pritiskati nase.
-
-**Mogoče potrebuješ samo boljša navodila za uporabo sebe.**
+No najprej bi te rada razočarala in ti povedala, da to ni način, da se ti dobro počutiš- lahko kupiš vse, kar je popularno, ker to vsi "it" ljudje počnejo, pa ti ne boš nič bolj "it". Ne me razumeti narobe, kupi karkoli ti prinaša kako korist. Ampak ne zamenjaj tega z idejo, da si kaj bližje tistemu počitju, ki ga pravzaprav iščeš in zaradi katerega so ti (morda tebi nezavedno) pravzaprav tisto nekaj prodali.
